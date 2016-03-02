@@ -1,3 +1,7 @@
+# Try Git
+
+2016.03.05 フロントエンドカンファレンス Git ハンズオン
+
 ## 前準備
 
 ### SourceTreeのインストール
@@ -9,15 +13,19 @@ https://downloads.atlassian.com/software/sourcetree/SourceTree_2.1.dmg
 - Windows  
 https://downloads.atlassian.com/software/sourcetree/windows/SourceTreeSetup_1.6.25.exe
 
-インストール途中、BitBucket や ssh の設定についてのダイアログが表示された場合は、スキップして大丈夫です。
+インストール途中、BitBucket や ssh の設定についてのダイアログが表示された場合は、スキップを選んでいただいて大丈夫です。
+
+### 本日のスライド
+
+こちらからも参照できます。
+
+https://speakerdeck.com/tammatsuo/try-git-hanzuon
 
 ### サンプルコード
 
 こちらをダウンロードしてお使いください
 
 https://raw.githubusercontent.com/kfug-git/kfug-git.github.io/master/index.html
-
-### スライドはこちらに
 
 ### Git 用語集
 
